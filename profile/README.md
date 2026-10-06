@@ -1,7 +1,7 @@
 # bmmo-lab
 
 > **BMMO** (/ˈbiːmoʊ/, pronounced *“bimmo”* — the **B** already says “bee”)  
-> **B**inary **M**icromixer **M**odeling & **O**ptimization.
+> **B**inary **M**icromixer **M**odeling **O**ptimization.
 
 Welcome to the open-source initiative dedicated to bridging **SciML**, **microfluidics**, and **nanomedicine manufacturing**.
 
