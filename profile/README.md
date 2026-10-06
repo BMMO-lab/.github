@@ -35,6 +35,7 @@ If you use BMMO modules or architectures in academic research, please cite our c
   url    = {https://github.com/bmmo-lab/bmmo-core},
   year   = {2026}
 }
+```
 
 ---
 
