@@ -36,6 +36,8 @@ If you use BMMO modules or architectures in academic research, please cite our c
   year   = {2026}
 }
 
+---
+
 <p align="center">
   <sub>Maintained by the <b>BMMO Lab</b> research initiative. Released under the Apache 2.0 License.</sub>
 </p>
