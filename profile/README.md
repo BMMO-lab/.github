@@ -38,6 +38,4 @@ If you use BMMO modules or architectures in academic research, please cite our c
 
 ---
 
-<p align="center">
-  <sub>Maintained by the <b>BMMO Lab</b> research initiative. Released under the Apache 2.0 License.</sub>
-</p>
+> *Maintained by the **BMMO Lab** research initiative · Released under the Apache 2.0 License.*
